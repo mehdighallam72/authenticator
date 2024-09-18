@@ -43,6 +43,6 @@ Make sure you have the following installed:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/authenticator.git
+git clone https://github.com/mehdighallam72/authenticator.git
 cd authenticator
 ```
